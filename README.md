@@ -1,6 +1,6 @@
 <div align='center'>
 <div align="center">
- # I'm Giorgi. Junior Programmer
+ ### I'm Giorgi. Junior Programmer
 </div>  
   
 
