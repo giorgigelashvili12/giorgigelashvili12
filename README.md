@@ -1,5 +1,7 @@
 <div align='center'>
-#<div align="center">I'm Giorgi. Junior Programmer</div>  
+<div align="center">
+ # I'm Giorgi. Junior Programmer
+</div>  
   
 
 -  ⌨️ I'm currently mastering JS  
