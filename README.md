@@ -1,7 +1,7 @@
 <div align='center'>
 
 # I'm Giorgi. Junior Programmer
-![](https://komarev.com/ghpvc/?username=giorgigelashvili12&color=green+for-the-badge)
+![](https://komarev.com/ghpvc/?username=giorgigelashvili12&color=green)
   
 
 -  ⌨️ I'm currently mastering JS  
