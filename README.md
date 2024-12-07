@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **JavaScript**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,12 +17,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgigelashvili12&show_icons=true&locale=en&layout=compact" alt="giorgigelashvili12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giorgigelashvili12&" alt="giorgigelashvili12" /></p>
-
-
-## Github Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giorgigelashvili12&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=giorgigelashvili12&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-
 <br/>  
 </div>
