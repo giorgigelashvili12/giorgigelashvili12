@@ -7,8 +7,7 @@
   </p>
 
   <p>
-    Building for the love of clean code. I build scalable, type-safe applications focused on performance,
-    reliability, and clean architecture. If I'm not writing <b>TypeScript</b>, I'm probably enjoying green apples.
+    Coding because I love it (as long as its clean). Focusing on always expanding my knowledge and improving technologies.
   </p>
 </div>
 
@@ -16,7 +15,7 @@
 
 ### 🛠️ Current Skills
 
-#### 🌐 Frontend & UI
+#### Frontend
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & APIs
+#### Backend
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -43,7 +42,7 @@
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Data
+#### Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -55,7 +54,7 @@
   <img src="https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white" />
 </p>
 
-#### 🤖 Machine Learning & Data Science
+#### Machine Learning
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -71,7 +70,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
-#### 🚀 DevOps & Infrastructure
+#### DevOps & Infrastructure
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -85,7 +84,7 @@
 
 ---
 
-### 🎯 Currently Learning & Exploring
+### Currently Learning & Progressing
 
 *Technologies I'm actively mastering and looking forward to learning.*
 
@@ -95,7 +94,7 @@
   </a>
 </p>
 
-#### 📱 Future Goals
+#### Future Goals
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -103,19 +102,20 @@
   </a>
 </p>
 
-> Exploring **Kotlin** and **Swift** to expand into modern Android and iOS development.
-
 ---
 
-### 🚀 Featured Project: Garnet
+### Featured Project: Garnet
 
-**Passion for transactional infrastructure.**
+**Inspired by the complexity of architectures**
 *Still in the process of building.*
 
-* Built with **Next.js**, **NestJS**, **TanStack**, and **PostgreSQL**
-* Designed around scalable and maintainable backend architecture
-* **Key Feature:** Leveraged **Docker** for seamless local development and production parity
-* Focused on transactional workflows, reliability, and clean architecture
+* Built on DDD Architecture with high-quality, maintainable codebase
+
+#### Technologies:
+
+* Frontend: Type-Safe React, Tailwindcss (Next.js, Tanstack)
+* Backend: C# .NET, Golang Chi, Python FastAPI
+* Other Technologies: Docker, Kubernetes, PostgreSQL, MongoDB, CockroachDB, Apache Kafka, Kong, Temporal, ClickHouse
 
 <p align="left">
   <a href="https://garnet-static.vercel.app/">
@@ -126,18 +126,3 @@
   </a>
 </p>
 
----
-
-### 📊 Some Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=giorgigelashvili12&show_icons=true&theme=tokyonight" alt="Gio's Stats" />
-</p>
-
-<div align="center">
-  <p>📫 Toss an apple over to: <b>giogela2011@gmail.com</b></p>
-
-  <a href="https://www.linkedin.com/in/giorgi-gelashvili-779125311/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
