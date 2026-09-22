@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🍏 Hey, I'm Gio (aka Mr. Apple)</h1>
+  <h1>🍏 Mr. Apple</h1>
   <h3>Full-Stack Engineer | Architecting with a love for apples</h3>
 
   <p align="center">
